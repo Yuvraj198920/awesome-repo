@@ -1,1 +1,6 @@
 pollsproject/db.sqlite3
+pollsproject/polls/__pycache__/__init__.cpython-310.pyc
+pollsproject/polls/__pycache__/urls.cpython-310.pyc
+pollsproject/polls/__pycache__/views.cpython-310.pyc
+pollsproject/pollsproject/__pycache__/urls.cpython-310.pyc
+
